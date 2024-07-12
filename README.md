@@ -12,16 +12,16 @@ Installing Rustlings
 
 The following command will download and compile Rustlings:
 
-cargo install rustlings
+    cargo install rustlings
 
 If the installation fails… (click to expand)
 Initialization
 
 After installing Rustlings, run the following command to initialize the rustlings/ directory:
 
-rustlings init
+    rustlings init
 
 Now, go into the newly initialized directory and launch Rustlings for further instructions on getting started with the exercises:
 
-cd rustlings/
-rustlings
+    cd rustlings/
+    rustlings
